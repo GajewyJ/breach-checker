@@ -10,8 +10,8 @@ main.container {
 }
 
 article {
-  padding: 3rem;
-  font-size: 1.15rem;
+  padding: 5rem;
+  font-size: 2rem;
 }
 
 #result:empty {
